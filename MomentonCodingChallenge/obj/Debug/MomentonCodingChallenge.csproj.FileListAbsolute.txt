@@ -1,0 +1,7 @@
+c:\users\user\source\repos\MomentonCodingChallenge\MomentonCodingChallenge\obj\Debug\MomentonCodingChallenge.csprojAssemblyReference.cache
+c:\users\user\source\repos\MomentonCodingChallenge\MomentonCodingChallenge\obj\Debug\MomentonCodingChallenge.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\MomentonCodingChallenge\MomentonCodingChallenge\bin\Debug\MomentonCodingChallenge.exe.config
+c:\users\user\source\repos\MomentonCodingChallenge\MomentonCodingChallenge\bin\Debug\MomentonCodingChallenge.exe
+c:\users\user\source\repos\MomentonCodingChallenge\MomentonCodingChallenge\bin\Debug\MomentonCodingChallenge.pdb
+c:\users\user\source\repos\MomentonCodingChallenge\MomentonCodingChallenge\obj\Debug\MomentonCodingChallenge.exe
+c:\users\user\source\repos\MomentonCodingChallenge\MomentonCodingChallenge\obj\Debug\MomentonCodingChallenge.pdb

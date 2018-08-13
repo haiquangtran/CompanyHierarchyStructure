@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\MomentonCodingChallenge\MomentonCodingChallengeUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\source\repos\MomentonCodingChallenge\MomentonCodingChallengeUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\source\repos\MomentonCodingChallenge\MomentonCodingChallengeUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\source\repos\MomentonCodingChallenge\MomentonCodingChallengeUnitTests\bin\Debug\MomentonCodingChallengeUnitTests.dll
+C:\Users\User\source\repos\MomentonCodingChallenge\MomentonCodingChallengeUnitTests\bin\Debug\MomentonCodingChallengeUnitTests.pdb
+C:\Users\User\source\repos\MomentonCodingChallenge\MomentonCodingChallengeUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\User\source\repos\MomentonCodingChallenge\MomentonCodingChallengeUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\User\source\repos\MomentonCodingChallenge\MomentonCodingChallengeUnitTests\bin\Debug\MomentonCodingChallenge.exe
+C:\Users\User\source\repos\MomentonCodingChallenge\MomentonCodingChallengeUnitTests\bin\Debug\MomentonCodingChallenge.pdb
+C:\Users\User\source\repos\MomentonCodingChallenge\MomentonCodingChallengeUnitTests\bin\Debug\MomentonCodingChallenge.exe.config
+C:\Users\User\source\repos\MomentonCodingChallenge\MomentonCodingChallengeUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\User\source\repos\MomentonCodingChallenge\MomentonCodingChallengeUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\User\source\repos\MomentonCodingChallenge\MomentonCodingChallengeUnitTests\obj\Debug\MomentonCodingChallengeUnitTests.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MomentonCodingChallenge\MomentonCodingChallengeUnitTests\obj\Debug\MomentonCodingChallengeUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MomentonCodingChallenge\MomentonCodingChallengeUnitTests\obj\Debug\MomentonCodingChallengeUnitTests.csproj.CopyComplete
+C:\Users\User\source\repos\MomentonCodingChallenge\MomentonCodingChallengeUnitTests\obj\Debug\MomentonCodingChallengeUnitTests.dll
+C:\Users\User\source\repos\MomentonCodingChallenge\MomentonCodingChallengeUnitTests\obj\Debug\MomentonCodingChallengeUnitTests.pdb
